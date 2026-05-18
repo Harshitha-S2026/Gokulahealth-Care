@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399166354922",
+    "project_id": "gokulahealth23",
+    "storage_bucket": "gokulahealth23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399166354922:android:65857079d51b411c75ae93",
+        "android_client_info": {
+          "package_name": "com.example.gokulahealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQ887GoGUV_zOE8Rg2bGIVAOvPxSY1Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
